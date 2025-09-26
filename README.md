@@ -1,0 +1,2 @@
+# GoogleMapExtractor
+GoogleMaps data collection
