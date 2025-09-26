@@ -9,10 +9,10 @@ Google 地图覆盖全球数以亿计的企业与商户信息，是外贸企业�
 ---
 
 ## 功能截图
-![功能截图](images/screenshot1.png)
+![功能截图](image/001.png)
 
 ## 数据截图
-![数据截图](images/screenshot2.png)
+![数据截图](image/002.png)
 
 ---
 
@@ -54,7 +54,7 @@ Google 地图覆盖全球数以亿计的企业与商户信息，是外贸企业�
 
 ## 联系方式
 扫码添加客服微信：  
-![微信二维码](images/wechat_qr.png)
+![微信二维码](image/wx.jpg)
 
 ---
 
