@@ -53,8 +53,9 @@ Google 地图覆盖全球数以亿计的企业与商户信息，是外贸企业�
 ---
 
 ## 联系方式
-https://www.wakasoft.com/
-wakasoft.team@gmail.com
+网站  https://www.wakasoft.com/
+
+邮箱  wakasoft.team@gmail.com
 
 
 ---
